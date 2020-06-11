@@ -1,6 +1,6 @@
 #EXTM3U
   
-#EXTINF:-1 group-title="TEST" tvg-logo="https://freeview.github.io/logos/tv1.png",TEST MOVIE 1
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://cdn.i-scmp.com/sites/default/files/styles/768x768/public/d8/images/methode/2019/09/23/2db1280e-ddf4-11e9-94c8-f27aa1da2f45_image_hires_210347.jpg?itok=d8m-hTYU&v=1569243832",IPMAN 4
 https://www.googleapis.com/drive/v3/files/1aDjgZ6dpBcNoCh7Hkmpdt9k1XFZ2mrdA?alt=media&key=AIzaSyC5erULOTYDCWzLCMk0ApbdTPmKvlLZcZQ
   
 #EXTINF:-1 group-title="MY/SG" tvg-logo="https://freeview.github.io/logos/tv1.png",TV1
