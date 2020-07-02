@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="STREAMJER " tvg-logo="https://ibb.co/RHfjKp8",t.me/smartiptv4u
-https://www.youtube.com/embed/omDki-I7oVY
+#EXTINF:-1 group-title="STREAMJER " tvg-logo="https://www.googleapis.com/drive/v3/files/19YFDOn5vSJCm21AiHLUeNsgXG8FC_NUb?alt=media&key=AIzaSyC5erULOTYDCWzLCMk0ApbdTPmKvlLZcZQ",t.me/smartiptv4u
+https://www.googleapis.com/drive/v3/files/1ns3TE08RFx8_38iwOhByQ-IofNoF90aD?alt=media&key=AIzaSyC5erULOTYDCWzLCMk0ApbdTPmKvlLZcZQ
 
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Lokal",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
