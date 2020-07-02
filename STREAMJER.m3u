@@ -43,8 +43,7 @@ https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/823.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png" group-title="MALAYSIA",Aniplus (Opt-1)
-http://210.210.155.35/session/878a9ae4-7e3d-11e8-a850-b82a72d63267/uq2663/h/h02/01.m3u8?thebestfreeenglishchannels.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png" group-title="MALAYSIA",Aniplus (Opt-2)
 http://45.126.83.51/uq2663/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://1.bp.blogspot.com/_pZ5epwC9Ns0/S6otX4uJ0mI/AAAAAAAAAZQ/VlWmeBvI_1Q/s1600/Astro+Arena+-+New+Logo.jpg" group-title="MALAYSIA",Astro Arena
