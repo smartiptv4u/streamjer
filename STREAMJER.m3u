@@ -1,7 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="STREAMJER " tvg-logo="https://cf.shopee.com.my/file/833b45b43317e637b05b973db2247f61",t.me/smartiptv4u
 https://drive.google.com/uc?export=download&id=1c-zbY6VLhXftrxzakGYa6zgY07Zc9vAW
-
+#EXTINF:-1 group-title="STREAMJER " tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ip_Man_4_poster.png",IP MAN 4(MOVIE)
+https://www.googleapis.com/drive/v3/files/1aDjgZ6dpBcNoCh7Hkmpdt9k1XFZ2mrdA?alt=media&key=AIzaSyCiwnGMyJD1lW9dV-zvJGW3SGd53Yt6dng
 
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="MALAYSIA",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
@@ -36,15 +37,10 @@ https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b20640
 
 #EXTINF:-1 tvg-ID="AET.US" tvg-logo="http://static.epg.best/de/Boomerang.de.png" group-title="KIDS",Boomerang
 http://145.239.255.4:8080/BOO/mono.m3u8?token=test
-
 #EXTINF:-1 tvg-ID="ABK.AU" tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png" group-title="Australia",ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
-
 #EXTINF:-1 tvg-id="CBE.UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" group-title="UK",CBeebies
 http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/823.m3u8
-
-
-
 
 
 
@@ -62,6 +58,20 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-id="SMA.UK" tvg-logo="https://static.epg.best/gb/SonyMoviesAction.uk.png" group-title="Filem",Sony Movies Action
 http://51.52.156.22:8888/http/009
+
+
+#EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="SINGAPORE",Channel 5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+#EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="SINGAPORE",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-ID="Sur.SG" tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="SINGAPORE",Suria
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 tvg-ID="Vas.SG" tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="SINGAPORE",Vasantham
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+#EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://www.mewatch.sg/image/5166818/16x9/236/133/a6eec7dcb1648300cfbaa9a076b4fce8/jV/channel-8.png" group-title="SINGAPORE",Channel 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 tvg-ID="ChU.SG" tvg-logo="https://www.mewatch.sg/image/5308024/16x9/236/133/38aa7e2b749478c4bba097b540b93720/TN/channel-u.png" group-title="SINGAPORE",Channel U
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 
 
 
@@ -173,18 +183,7 @@ https://cdn-accedo-01.akamaized.net/Content/HLS/Live/channel(7e352a4d-dcc4-4c48-
 
 
 
-#EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="SINGAPORE",Channel 5
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="SINGAPORE",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-ID="Sur.SG" tvg-logo="https://video.toggle.sg/image/5249134/16x9/947/533/ab3079e30a8132181c2f1b056f814810/of/suria.png" group-title="SINGAPORE",Suria
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
-#EXTINF:-1 tvg-ID="Vas.SG" tvg-logo="https://video.toggle.sg/image/5249138/16x9/947/533/c658032fe6530ca661a7a94ca9f0354e/JR/vasantham.png" group-title="SINGAPORE",Vasantham
-https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-#EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://www.mewatch.sg/image/5166818/16x9/236/133/a6eec7dcb1648300cfbaa9a076b4fce8/jV/channel-8.png" group-title="SINGAPORE",Channel 8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 tvg-ID="ChU.SG" tvg-logo="https://www.mewatch.sg/image/5308024/16x9/236/133/38aa7e2b749478c4bba097b540b93720/TN/channel-u.png" group-title="SINGAPORE",Channel U
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+
 
 #EXTINF:-1 tvg-id="TV5.TH" tvg-logo="https://www.beeduball.com/wp-content/themes/beeduball/img/tvonline/5hd.png" group-title="Thailand",Channel 5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
@@ -440,5 +439,4 @@ http://stream1.news5.ph/n5e/tv5/chunklist.m3u8
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
 
 
-#EXTINF:-1 group-title="STREAMJER " tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ip_Man_4_poster.png",IP MAN 4
-https://www.googleapis.com/drive/v3/files/1aDjgZ6dpBcNoCh7Hkmpdt9k1XFZ2mrdA?alt=media&key=AIzaSyCiwnGMyJD1lW9dV-zvJGW3SGd53Yt6dng
+
