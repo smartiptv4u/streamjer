@@ -17,14 +17,11 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MALAYSIA",TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
-
-#EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" group-title="Lokal",Astro Naura
+#EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" group-title="MALAYSIA",Astro Naura
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
-#EXTINF:-1 tvg-id="BAN.ID" tvg-logo="https://poster.starhubgo.com/Linear_channels2/509_1920x1080_HTV.png" group-title="Lokal",Blue Ant Entertainment
+#EXTINF:-1 tvg-id="BAN.ID" tvg-logo="https://poster.starhubgo.com/Linear_channels2/509_1920x1080_HTV.png" group-title="MALAYSIA",Blue Ant Entertainment
 https://edgejt6.useetv.com/joss/14/blueant/chunklist_w1555212600_b684100_sleng_enc=O9R5YwwY_8RskKLVNv__Iw.m3u8
-#EXTINF:-1 tvg-id="CNN.ID" tvg-logo="https://storage.googleapis.com/pastiumroh/images/1/XSOMnYNboBxAsfBVvgynT783VsxAr18NyimcWKpU.png" group-title="Lokal",CNN Indonesia
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-ID="Egg.MY" tvg-logo="https://egg.network/wp-content/uploads/2013/04/egg-network-logo.png" group-title="Lokal",eGG Network
+#EXTINF:-1 tvg-ID="Egg.MY" tvg-logo="https://egg.network/wp-content/uploads/2013/04/egg-network-logo.png" group-title="MALAYSIA",eGG Network
 http://210.210.155.66/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://video.toggle.sg/image/5253176/16x9/236/133/b49cfbbdfadcac8183438a67da78f60a/bW/channel-5.png" group-title="SINGAPORE",Channel 5
