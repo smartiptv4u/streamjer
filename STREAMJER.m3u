@@ -3,12 +3,14 @@
 #EXTINF:-1 tvg-ID="IPTV4U" tvg-logo="https://cf.shopee.com.my/file/833b45b43317e637b05b973db2247f61" group-title="MALAYSIA",t.me/smartiptv4u
 https://drive.google.com/uc?export=download&id=1c-zbY6VLhXftrxzakGYa6zgY07Zc9vAW
 
-#EXTINF:-1 tvg-ID="IPTV4U.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="test",TEST LINK
-http://fhr.ddns.net:25461/333333/333333/70122
+#EXTINF:-1 tvg-ID="IPTV4U.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="test",GALAXY
+https://vcdnjt.useetv.com/joss/15/galaxy/chunklist_w890950005_b494100_sleng_372369.m3u8
 
+#EXTINF:-1 tvg-ID="IPTV4U.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="test",&FLIX
+http://202.163.117.6:9981/stream/channelid/1160757101
 
-
-
+#EXTINF:-1 tvg-ID="IPTV4U.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="test",COLOUR
+http://202.163.117.6:9981/stream/channelid/388441008
 
 
 
