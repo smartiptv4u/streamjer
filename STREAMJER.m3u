@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="STREAMJER " tvg-logo="https://cf.shopee.com.my/file/833b45b43317e637b05b973db2247f61",t.me/smartiptv4u
+
+#EXTINF:-1 tvg-ID="IPTV4U" tvg-logo="https://cf.shopee.com.my/file/833b45b43317e637b05b973db2247f61" group-title="MALAYSIA",t.me/smartiptv4u
 https://drive.google.com/uc?export=download&id=1c-zbY6VLhXftrxzakGYa6zgY07Zc9vAW
-#EXTINF:-1 group-title="STREAMJER " tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ip_Man_4_poster.png",IP MAN 4(MOVIE)
+#EXTINF:-1 tvg-ID="IPTV4U.2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ip_Man_4_poster.png" group-title="MALAYSIA",IP MAN 4(MOVIE)
 https://www.googleapis.com/drive/v3/files/1aDjgZ6dpBcNoCh7Hkmpdt9k1XFZ2mrdA?alt=media&key=AIzaSyCiwnGMyJD1lW9dV-zvJGW3SGd53Yt6dng
+
 
 
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="MALAYSIA",TV1
