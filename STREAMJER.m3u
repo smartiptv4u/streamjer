@@ -3,6 +3,10 @@
 #EXTINF:-1 tvg-ID="IPTV4U" tvg-logo="https://cf.shopee.com.my/file/833b45b43317e637b05b973db2247f61" group-title="MALAYSIA",t.me/smartiptv4u
 https://drive.google.com/uc?export=download&id=1c-zbY6VLhXftrxzakGYa6zgY07Zc9vAW
 
+#EXTINF:-1 tvg-ID="IPTV4U.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="MALAYSIA",TEST LINK
+http://fhr.ddns.net:25461/333333/333333/70122
+
+
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="MALAYSIA",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
@@ -152,8 +156,7 @@ https://www.googleapis.com/drive/v3/files/1aDjgZ6dpBcNoCh7Hkmpdt9k1XFZ2mrdA?alt=
 #EXTINF:-1 tvg-ID="IPTV4U.2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSltNOlIiGl6M9-TYMcjPu1soQAn83vr2o33Q&usqp=CAU" group-title="MALAYSIA", MORE MOVIE COMING SOON
 
 
-#EXTINF:-1 tvg-ID="IPTV4U.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="MALAYSIA",TEST LINK
-http://fhr.ddns.net:25461/333333/333333/70122
+
 
 
 
