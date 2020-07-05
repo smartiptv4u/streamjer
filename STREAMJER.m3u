@@ -3,37 +3,39 @@
 #EXTINF:-1 tvg-ID="IPTV4U" tvg-logo="https://cf.shopee.com.my/file/833b45b43317e637b05b973db2247f61" group-title="MALAYSIA",t.me/smartiptv4u
 https://drive.google.com/uc?export=download&id=1c-zbY6VLhXftrxzakGYa6zgY07Zc9vAW
 
-#EXTINF:-1 tvg-ID="IPTV4U.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="MALAYSIA",TEST LINK
+#EXTINF:-1 tvg-ID="IPTV4U.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="test",TEST LINK
 http://fhr.ddns.net:25461/333333/333333/70122
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="MALAYSIA",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 
-
 #EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="MALAYSIA",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-
 
 #EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MALAYSIA",TV3
 https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRabcoL8kiE5RW4jsRMOnDg)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
-
 #EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="MALAYSIA",NTV 7
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
-
 
 #EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="MALAYSIA",8TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
 
-
 #EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="MALAYSIA",TV9
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
 
-
 #EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="MALAYSIA",OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://yt3.ggpht.com/a/AATXAJwp8nil-d3RNOM3A9j-9kdU36Y7g9wISsXD-pzMNg=s900-c-k-c0xffffffff-no-rj-mo",Drama Sangat
 http://freeview.mywire.org:9090/streams/drama.m3u8|Referer=https://www.dailymotion.com
@@ -41,13 +43,11 @@ http://freeview.mywire.org:9090/streams/drama.m3u8|Referer=https://www.dailymoti
 #EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="MALAYSIA",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 
-
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Bernama_News_Channel_Logo.png",BERNAMA 
 http://freeview.mywire.org:9090/streams/bnc.m3u8|Referer=https://www.youtube.com
 
 #EXTINF:-1 group-title="News" tvg-logo="https://myklik.rtm.gov.my/image/Berita-NEW-PlayerLogo.jpg",Berita RTM
 http://freeview.mywire.org:9090/streams/bes.m3u8|Referer=https://myklik.rtm.gov.my
-
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://dj7u9rvtp3yka.cloudfront.net/storefronts/SIM-1509533291476-92ebf886-aa2d-471b-bd2d-f49523052240.jpg",Naura
 http://freeview.mywire.org:9090/streams/naura.m3u8
@@ -55,17 +55,14 @@ http://freeview.mywire.org:9090/streams/naura.m3u8
 #EXTINF:-1 tvg-ID="Egg.MY" tvg-logo="https://egg.network/wp-content/uploads/2013/04/egg-network-logo.png" group-title="MALAYSIA",[DOWN]eGG Network
 http:
 
-
 #EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="MALAYSIA",Hello
 https://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
-
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://cdn-radiotime-logos.tunein.com/s279310g.png",TVIKIM
 http://freeview.mywire.org:9090/streams/tvikim.m3u8
 
 #EXTINF:-1 group-title="Malaysia" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b2/118%281%29.png/revision/latest/scale-to-width-down/340?cb=20200527075434",Astro Go Shop 
 http://freeview.mywire.org:9090/streams/goshop.m3u8
-
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1200px-CBeebies.svg.png",CBeebies
 http://freeview.mywire.org:9090/streams/cbeebies.m3u8
