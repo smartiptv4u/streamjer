@@ -3,14 +3,14 @@
 #EXTINF:-1 tvg-ID="IPTV4U" tvg-logo="https://cf.shopee.com.my/file/833b45b43317e637b05b973db2247f61" group-title="MALAYSIA",t.me/smartiptv4u
 https://drive.google.com/uc?export=download&id=1c-zbY6VLhXftrxzakGYa6zgY07Zc9vAW
 
-#EXTINF:-1 tvg-ID="IPTV4U.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="test",BOOMERANG
-http://fhr.ddns.net:25461/333333/333333/62000
+#EXTINF:-1 tvg-ID="IPTV4U.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="test",1
+http://fhr.ddns.net:25461/movie/333333/333333/72873.mp4
 
-#EXTINF:-1 tvg-ID="IPTV4U.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="test",BABY TV
-http://fhr.ddns.net:25461/333333/333333/61991
+#EXTINF:-1 tvg-ID="IPTV4U.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="test",2
+http://fhr.ddns.net:25461/movie/333333/333333/73435.mp4
 
-#EXTINF:-1 tvg-ID="IPTV4U.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="test",ANIMAL PLANET
-http://fhr.ddns.net:25461/333333/333333/61987
+#EXTINF:-1 tvg-ID="IPTV4U.2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Test-Logo.svg/783px-Test-Logo.svg.png" group-title="test",3
+http://fhr.ddns.net:25461/333333/333333/70211
 
 
 
